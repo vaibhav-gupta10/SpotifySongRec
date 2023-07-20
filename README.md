@@ -38,9 +38,6 @@ To get started with the SpotifyRecommender project, follow these steps:
 
 Contributions to SpotifyRecommender are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request. Please ensure that your contributions align with the project's objectives and follow best practices.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for both personal and commercial purposes.
 
 ## Acknowledgments
 
